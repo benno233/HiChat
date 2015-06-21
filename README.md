@@ -23,4 +23,11 @@ How to run
 
 ![blah](https://www.codeship.io/projects/73bd0d90-9897-0131-516c-56598d7b87e5/status)
 
-
+## ps
+    
+    实践发布 
+   
+    补充功能 
+        先调试好账号 与 密码
+     2人 需要账号密码
+     
